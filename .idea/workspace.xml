@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc94a4bb-ed90-4a5f-9a25-e7fb729fa5a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task4.java" afterDir="false" />
+    <list default="true" id="bc94a4bb-ed90-4a5f-9a25-e7fb729fa5a9" name="Changes" comment="4 project tasks done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2djxOtU8OMlK98JjsQ5Rfxwz24t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,8 +41,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Task1.executor": "Run",
+    "Application.Task10.executor": "Debug",
     "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
     "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Task7.executor": "Run",
+    "Application.Task8.executor": "Run",
+    "Application.Task9.executor": "Run",
     "Application.task3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,7 +76,20 @@
       <option name="presentableId" value="Default" />
       <updated>1710535261565</updated>
     </task>
+    <task id="LOCAL-00001" summary="4 project tasks done">
+      <option name="closed" value="true" />
+      <created>1710540791370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710540791371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4 project tasks done" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 project tasks done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -81,11 +98,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/projectTasks/Task2.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

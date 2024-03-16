@@ -14,8 +14,8 @@ public class Task1 {
 //            tempList[i]=temp;
 //        }
 //        System.out.println(Arrays.toString(tempList));
-        double min=0;
-        double max=0;
+        double min=tempList [0];
+        double max=tempList [0];
         for (int j=0; j<7; j++){
             if(tempList[j]>max){
                 max=tempList[j];
